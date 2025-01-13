@@ -84,7 +84,7 @@ header {
   justify-content: space-between;
   padding: 5% 0;
   position: relative;
-  background: url('imagenes/Fondo.jpg') no-repeat center center;
+  background: url('Fondo.jpg') no-repeat center center;
   background-size: cover;
   overflow: hidden;
 }
